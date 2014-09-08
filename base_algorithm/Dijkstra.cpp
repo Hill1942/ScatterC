@@ -1,5 +1,3 @@
-/*Dijkstra求单源最短路径 2010.8.26*/
-
 #include <iostream>
 #include<stack>
 #define M 100
